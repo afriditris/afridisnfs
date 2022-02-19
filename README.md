@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @afridisnfs
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, Java, HTML, CSS.
-- 📫 Discord: Afridi#0039
+
